@@ -1,0 +1,10 @@
+.form-search {
+    background-color: rgb(31, 57, 201);
+    margin: 20px;
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+
+.pagination {
+    margin: 20px;
+}
